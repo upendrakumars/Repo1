@@ -1,0 +1,10 @@
+ Volume in drive C is L008939
+ Volume Serial Number is EECD-1204
+
+ Directory of C:\Tools\Git\MyProject
+
+2021-06-11  02:28 AM    <DIR>          .
+2021-06-11  02:28 AM    <DIR>          ..
+2021-06-11  02:28 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  130,818,359,296 bytes free
