@@ -1,0 +1,8 @@
+git init
+git status
+git add
+git commit -m "<<some comment as message>>"
+
+git remote add origin <<copy the repository URL from github>>
+ ex- git remote add origin https://github.com/upendrakumars/Repo1.git
+-git push -u origin master
